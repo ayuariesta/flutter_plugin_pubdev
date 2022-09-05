@@ -16,3 +16,6 @@ Maksud dari langkah 2 praktikum diatas merupakan langkah untuk memasukkan plugin
 ### Jelaskan maksud dari langkah 5 pada praktikum tersebut!
 Pada langkah ke-5 ini, kita menambahkan variable dengan nama "text" untuk dapat menjalankan method "AutoSizeText". Dan juga, pada praktikum ini kita menambahkan konstruktor dari class "red_text_widget". Sehingga apabila class akan digunakan, kita sebagai user harus menambahkan konstruktor saat memanggilnya.
 
+## Soal Nomor 4
+### Pada langkah 6 terdapat dua widget yang ditambahkan, jelaskan fungsi dan perbedaannya!
+Pada widget pertama, disini container menggunakan method RedTextWidget, method ini menggunakan plugin auto_size_text yang telah kita tambahkan ke dalam project ini. Dengan menggunakan plugin tersebut, text yang di tampilkan akan lebih teratur. Berbeda dengan widget yang kedua, text yang di tampilkan kurang teratur.
